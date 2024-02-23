@@ -7,5 +7,3 @@ int main()
 	printf("888888\n");
 	return 0;
 }
-
-
