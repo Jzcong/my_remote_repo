@@ -6,5 +6,7 @@ int main()
 	printf("\n");
 	printf("123456\n");
 	printf("99999\n");
+
+	printf("local branch1\n");
 	return 0;
 }
