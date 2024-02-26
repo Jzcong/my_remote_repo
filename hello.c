@@ -8,5 +8,7 @@ int main()
 	printf("99999\n");
 
 	printf("local branch1\n");
+
+	printf("/home/jcong/gitclone_remote/my_remote_repo");
 	return 0;
 }
